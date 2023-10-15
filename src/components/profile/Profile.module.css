@@ -1,0 +1,16 @@
+.profile {
+    /* display: flex;  */
+    /* flex-wrap: nowrap; */
+    /* align-items: center; */
+    /* flex-direction: column; */
+    width: 340px;
+    /* height: auto; */
+    margin: auto;
+    background-color: white;
+    padding: 15px;
+}
+
+/* .description {
+    width: 200px;
+    height: 100%;
+} */
