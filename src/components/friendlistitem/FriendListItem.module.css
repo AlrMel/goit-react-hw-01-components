@@ -1,0 +1,24 @@
+.item {
+display: flex;
+}
+
+.avatar {
+
+}
+
+.status{
+width: 5px;
+height: 5px;
+}
+
+.name {
+
+}
+
+.isOnline {
+background-color: green;
+}
+
+.offline {
+background-color: red;
+}
