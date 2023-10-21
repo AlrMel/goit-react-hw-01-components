@@ -49,7 +49,7 @@
 }
 
 .profile li {
-    width: calc((100% - 2 * 24px) / 3);
+    width: 100%;
     padding: 14px;
     display: flex;
     flex-direction: column;
